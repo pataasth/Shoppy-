@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1038961436678",
+    "firebase_url": "https://shoppy-115de.firebaseio.com",
+    "project_id": "shoppy-115de",
+    "storage_bucket": "shoppy-115de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038961436678:android:a3170de58dc9abde313b87",
+        "android_client_info": {
+          "package_name": "com.example.shoppy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038961436678-tubq0gsq3jjvcakrgtek35clavvhkc21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppy",
+            "certificate_hash": "ad151803bb875387e9fdf8360eab4bda2f906e6f"
+          }
+        },
+        {
+          "client_id": "1038961436678-42a1fpsgd15lpnq7cfhuia97ih32s13o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnL7GjzXufbtYLamfIPq_8Gd5jBle8794"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038961436678-42a1fpsgd15lpnq7cfhuia97ih32s13o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038961436678:android:c56578b233ffd431313b87",
+        "android_client_info": {
+          "package_name": "com.shoppy.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038961436678-n9na9vgr7lo34kp5iba588rmn9mbj59o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shoppy.customer",
+            "certificate_hash": "ad151803bb875387e9fdf8360eab4bda2f906e6f"
+          }
+        },
+        {
+          "client_id": "1038961436678-42a1fpsgd15lpnq7cfhuia97ih32s13o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnL7GjzXufbtYLamfIPq_8Gd5jBle8794"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038961436678-42a1fpsgd15lpnq7cfhuia97ih32s13o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
